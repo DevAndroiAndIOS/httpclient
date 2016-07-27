@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/admin/Desktop/android_UIt/httpclient/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db244dfe05c18eaa54e4300fff86fc7ee0aab1a1">
+        <dex dex="/Users/admin/Desktop/android_UIt/httpclient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_aafe2ebc8e8a7be3c5208560f11079bb0d69bd3d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/Desktop/android_UIt/httpclient/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="46b8cb2f01654439d3ef5c6e6364ff3f2486a90e">
+        <dex dex="/Users/admin/Desktop/android_UIt/httpclient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a1a07a6b089dfe164990f3a8564f433fe715f282/classes.dex" />
+    </item>
+
+</items>
